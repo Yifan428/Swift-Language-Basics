@@ -23,7 +23,7 @@ let greeting: String = "Hello"
 var name: String = "Karen"
 
 if sample1 == sample2{
-    print("They are equal")
+    print("The samples are equal")
 }
 else
 {
